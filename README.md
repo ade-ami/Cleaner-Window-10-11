@@ -25,7 +25,7 @@ Ikuti langkah-langkah ini untuk menjalankan proyek secara lokal:
 ```bash
 git clone https://github.com/ade-ami/Cleaner-Window-10-11.git
 cd Cleaner-Window-10-11
-cleaner.bat
+Cleanup.bat
 
 ```
 
